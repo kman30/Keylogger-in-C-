@@ -1,3 +1,5 @@
+//problem: https://www.hackerrank.com/challenges/dynamic-array/problem
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
